@@ -8,3 +8,6 @@ Resources:
 
 - different modules: https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules#weather
 
+- MagPy magazine: https://www.raspberrypi.org/magpi/issues/54/
+
+
